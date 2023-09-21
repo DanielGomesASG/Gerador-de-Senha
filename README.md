@@ -1,3 +1,3 @@
 # Gerador de senha
 
-Feito com javascript puro.
+Feito em javascript puro.
